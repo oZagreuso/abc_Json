@@ -1,0 +1,73 @@
+{
+    "recettes":
+    [
+        {
+            "crepe_bretonne":
+            [
+                {
+                    "sucree":
+                    [
+                        {
+                            "ingredients":
+                            [
+                                {
+                                    "farine_de_ble":"250g",
+                                    "sucre_roux":"70g",
+                                    "sucre_vanille":"1 sachet",
+                                    "huile_tournesol":"1 cas",
+                                    "sel_guerande":"une pincee",
+                                    "alcool":"rhum",
+                                    "oeufs":"2",
+                                    "lait":"1/2L"
+                                }
+                            ]
+                        },
+                        {
+                            "ustenciles":
+                            [
+                                {
+                                    "louche":"1 louche",
+                                    "cuillere":"1 cuillere en bois",
+                                    "poele":"1 poele a crepe",
+                                }
+                            ]
+                        },
+                        {
+                            "temps_preparation":"35 minutes"
+                        }
+                    ]
+                },
+                {
+                    "salee":
+                    [
+                        {
+                            "ingredients":
+                            [
+                                {
+                                    "farine_ble_noir":"250 g",
+                                    "gros_sel_guerande":"1 pincee",
+                                    "eau":"75 cl eau froide",
+                                    "oeufs":"1 oeuf"
+                                }
+                            ]
+                        },
+                        {
+                            "ustenciles":
+                            [
+                                {
+                                    "saladier":"1 saladier",
+                                    "cuillere":"1 cuillere en bois",
+                                    "fouet":"1 fouet de cuisine",
+                                    "louche":"1 louche"
+                                }
+                            ]
+                        },
+                        {
+                            "temps_preparation":"20 minutes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

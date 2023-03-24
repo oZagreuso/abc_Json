@@ -1,0 +1,53 @@
+{
+    "etudiants":
+    [
+        {
+            "nom": "Dal Ferro",
+            "prenom": "Olivier",
+            "date_naissance": "25/02/1983" ,
+            "email": "Odalferro@gmail.com",
+            "formation":
+            [
+                {
+                "intitule": "DWWM",
+                "duree": "12 mois",
+                "debut": "17/04/2023",
+                "fin": "17/04/2024"
+                }
+            ]                
+        },
+        {
+            "nom": "Desplantes",
+            "prenom": "Guillaume",
+            "date de naissance": "25/02/2003",
+            "email": "Gdesplantes@gmail.com",
+            "formation":
+            [
+                {
+                    "intitule": "DWWM",
+                    "duree": "14 mois",
+                    "debut": "17/04/2023",
+                    "fin": "17/06/2023"
+                }
+            ]
+        },
+        {
+            "nom": "Muller",
+            "prenom": "Raphael",
+            "date de naissance": "25/02/1903",
+            "email": "Rmuller@gmail.com",
+            "formation":
+            [
+                {
+                    "intitule": "CDA",
+                    "duree": "14 mois",
+                    "debut":"17/04/2023",
+                    "fin":"17/062023"
+                }
+            ],
+
+
+      
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "emplois":
+    [
+        {
+            "offres emplois":
+            [
+                {
+                    "intitule": "devellopeur PHP",
+                    "ville": "Paris",
+                    "description":
+                        [
+                            {
+                            "tache": "Analyse et developper une nouvelle application de receuil d'informations aupres des utilisateurs",
+                            "avanatges": "Repas offerts",
+                            "profil": "Bac +5 dans le domaine du developpement Web et mobile"                           
+                            }                 
+                        ]
+                },
+                {
+                    "intitule": "Developpeur Java",
+                    "ville": "tOULOUSE",
+                    "description": 
+                    [
+                        {
+                            "tache": "Developper des classe et objets en Java",
+                            "avanatges": "Voiture de fonction de luxe",
+                            "profil": "Bac +3 en Web developpement"
+
+                        }
+                    ]
+                },
+                {
+                    "intitule": "Offre stage Developpeur NodeJS",
+                    "ville": "CRM Mulhouse",
+                    "description": 
+                    [
+                        {
+                            "tache": "Preparer des nouilles instantanee",
+                            "avantages": "une tasse a votre nom avec le logo du CRM (dans la limite des stocks disponibles)",
+                            "profil": "RQTH: j'ai ete monte en kit"
+                        }
+                    ]
+                    
+                } 
+            ]             
+        }
+            
+    ]   
+}

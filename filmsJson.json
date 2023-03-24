@@ -1,0 +1,99 @@
+
+ {
+    "cinema_star_strasbourg":
+    [
+        {
+            "films_semaine":
+            [
+                {
+                    "comedies":
+                    [
+                        {
+                            "ce_soir": 
+                            [
+                                {
+                                    "titre": "La Cite de la peur",
+                                    "realisateur": "Alain Berberian",
+                                    "date_sortie": "09/03/1994",
+                                    "roles":
+                                    [
+                                        {
+                                        "actrices": "Chantal Lauby",
+                                        "acteurs": "Alain CHabat"
+                                        }
+                                    ]
+
+                                }
+                            ]
+                        },
+                        {
+                            "ce_soir": 
+                            [
+                                {
+                                    "titre": "Les Visiteurs",
+                                    "realisateur": "Jean-Marie Poire",
+                                    "date_sortie": "27/01/1993",
+                                    "roles":
+                                    [
+                                        {           
+                                            "actrices": "Valerie Lemercier",
+                                            "acteurs": "Jean Reno"
+                                        }
+                                    ]
+                                }
+                            ]
+
+                        
+
+                        }  
+                
+                    ]
+                },
+                {
+                    "films_romantiques":
+                    [
+                        {
+                            "ce_soir": 
+                            [
+                                {
+                                    "titre": "Le fabuleux destin d'Amelie Poulain",
+                                    "realisateur": "Jean Pierre Jeunet",
+                                    "date_sortie": "25/04/2001",
+                                    "roles":
+                                    [
+                                        {
+                                            "actrices": "Audrey Tautou",
+                                            "acteurs": "Mathieu Kassovitz"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "science_fiction":
+                    [
+                        {
+                            "ce_soir": 
+                            [
+                                {
+                                    "titre": "Indiana Jones et le temple Maudit",
+                                    "realisateur": "Steven Speilberg",
+                                    "date_sortie": "08/05/1984",
+                                    "roles":
+                                    [
+                                        {
+                                            "actrices": "Zoe Saldana",
+                                            "acteurs": "Sam Wothington"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }   
+            ]
+        }
+    ]
+ }       

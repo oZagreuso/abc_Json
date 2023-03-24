@@ -1,0 +1,62 @@
+{
+    "menu": 
+        [
+        
+            {
+            "entrees": 
+            [
+                {
+                    "nom": "foie gras",
+                    "prix": 35,
+                    "description": "Foie gras d'oie avec sa tranche de pain d'epices"
+                },
+                {
+                    "nom": "Tartare de boeuf",
+                    "prix": 32,
+                    "description": "Tartare de boeuf prepare minute origine France"
+                }
+            ]
+            },
+            
+            {        
+            "plats":
+            [
+                {
+                    "nom": "Civet de biche",
+                    "prix": 43,
+                    "description": "Civet de biche sauce aux fruits rouges"
+                },
+                {
+                    "nom": "Saumon a l'oseille",
+                    "prix": 46,
+                    "description": "Pave de saumon sauvage origine Ecosse et sa sauce a l'oseille du jardin"
+                },
+                {
+                    "nom": "Baeckeoffe de la mer",
+                    "prix": 41,
+                    "description": "variante du mythique plat alsacien, cuisine aux trois poissons"
+                }
+            ]
+            },
+            {
+
+            "desserts":
+            [
+                {
+                    "nom": "Tiramisu",
+                    "prix": 24,
+                    "description": "Tiramisu a la creme de nos campagnes et a l'amaretto"
+                },
+                {
+                    "nom": "Tarte aux poires de nos grands meres",
+                    "prix": 28,
+                    "description": "Tarte a la pate sablee pur beurre, aux poires du jardin et a la poudre d'amandes"
+                }
+            ]
+        }
+        ]
+}
+
+        
+           
+   

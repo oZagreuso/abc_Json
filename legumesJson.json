@@ -1,0 +1,89 @@
+{
+    "legumes":
+    [
+        {
+            "courges":
+            [
+                {
+                    "nom":"potimarron",
+                    "nom_latin":"curcubita maxima Duchesne",
+                    "caracteristiques":
+                    [
+                        {
+                            "couleur": "rouge a rouge brique",                     
+                            "poids":"entre 1 a 3 kg",                      
+                            "vitamines":"A, B et C"
+                        }
+                 
+                    ]
+
+                },
+                {
+                    "nom":"citrouille",
+                    "nom_latin":"curcubita pepo",
+                    "caracteristiques":
+                    [
+                        {
+                            "couleur":"orange a rouge",
+                            "poids":"jusqu'a 1190,5 kg",
+                            "vitamines":"C et E"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "solanacees":
+            [
+                {
+                    "nom":"aubergine",
+                    "nom_latin":"solanum melonga",
+                    "caracteristiques":
+                    [
+                        {
+                            "couleur":"noir/violet",
+                            "poids":"225g/moy",
+                            "vitamines":"B1, B6, C et K"
+                        }                        }
+                    ]
+                },
+                {
+                    "nom":"tomate",
+                    "nom_latin":"lycopersicon",
+                    "caracteristiques":
+                    [
+                        {
+                            "couleur":"jaune, violet, orange ou noir",
+                            "poids":"130 a 150 g/moy",
+                            "vitamines":"B3, B5, B9, C et lycopene"
+                        }
+                    ]
+                },
+                {
+                    "nom":"piment",
+                    "nom_latin":"capsicum annum",
+                    "caracteristiques":
+                    [
+                        {
+                            "couleur":"rouge, vert ou jaune",
+                            "poids":"100g/moy",
+                            "vitamines":"A, B6, C, E, K et PP"
+                        }
+                    ]
+                },
+                {
+                    "nom":"poireau",
+                    "nom_latin":"allium porrum",
+                    "caracteristiques":
+                    [
+                        {
+                            "couleur":"blanc, vert",
+                            "poids":"150 g",
+                            "vitamines":"A, B1, B2, B3, B9 (acide folique) et C"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
